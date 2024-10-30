@@ -1,0 +1,29 @@
+.misc-pub-kiire:before {
+    font: 400 20px/1 dashicons;
+    speak: none;
+    display: inline-block;
+    padding: 0 2px 0 0;
+    top: 0;
+    left: -1px;
+    position: relative;
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none!important;
+    content: "\f537";
+    color: #82878c;
+}
+
+#wpadminbar #wp-admin-bar-kiire .ab-icon:before {
+    content: "\f537";
+    top: 3px;
+}
+
+.kiire-toolbar-last-title {
+    opacity: .5;
+    font-weight: bold;
+}
+
+#wpadminbar .kiire-posts-group small {
+    font-size: 11px;
+}
